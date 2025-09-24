@@ -1,0 +1,8 @@
+EXPORTS
+getName
+getFuncsArray
+getNbFunc
+setInfo
+beNotified
+messageProc
+isUnicode
