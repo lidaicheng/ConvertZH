@@ -8,7 +8,7 @@
 
 #### ./ConvertZH/x64/Debug/ConvertZH.dll  复制到目录/plugins下(新建ConvertZH目录)，如下图
 
-![内嵌图片](D:\3.Code\c++\ConvertZH\images\内嵌图片.png)
+![内嵌图片](images/内嵌图片.png)
 
 ## 使用方法：
 
